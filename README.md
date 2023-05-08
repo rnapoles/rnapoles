@@ -6,7 +6,7 @@
 <div>
   <a href="https://rnapoles.github.io/">
     <img height="190em" src ="https://github-readme-stats.vercel.app/api?username=rnapoles&show_icons=true&theme=dark&show_icons=true&count_private=true">
-    <img height="190em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rnapoles&layout=compact&hide_border=true&hide=jupyter%20notebook,html,roff,puppet,oxygene,smarty,xslt,makefile,gap,qmake,component pascal,css&langs_count=10&theme=dark">
+    <img height="190em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rnapoles&layout=compact&hide_border=true&hide=jupyter%20notebook,html,roff,puppet,oxygene,smarty,xslt,makefile,gap,qmake,component%20pascal,css&langs_count=10&theme=dark">
   </a>
 </div>
 
