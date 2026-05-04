@@ -11,7 +11,7 @@
 </div>
 
 ## Languages and Tools:
-<p align="left">
+<p align="left" style="display: flex;">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
     alt="linux" width="40" height="40" />
@@ -81,15 +81,15 @@
     alt="rust" width="40" height="40" />
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="react"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"
     width="40" height="40" />
   </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="react"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular"
     width="40" height="40" />
   </a>
 </p>
-
+https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg
 
 ## Operating System:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
