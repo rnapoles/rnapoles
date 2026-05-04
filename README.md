@@ -49,7 +49,7 @@
     height="40" />
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
     alt="laravel" width="40" height="40" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -77,7 +77,7 @@
     alt="redis" width="40" height="40" />
   </a>
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
     alt="rust" width="40" height="40" />
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
