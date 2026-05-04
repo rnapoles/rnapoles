@@ -12,84 +12,25 @@
 
 ## Languages and Tools:
 
-<div style="display: flex;">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-    alt="linux" width="40" height="40" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"
-    height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    alt="docker" width="40" height="40" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes"
-    width="40" height="40" />
-  </a>
-  <a href="https://gitlab.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab"
-    width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"
-    height="40" />
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40"
-    height="40" />
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-    alt="go" width="40" height="40" />
-  </a>
-  <a href="https://symfony.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="40"
-    height="40" />
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
-    alt="laravel" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-    alt="html5" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-    alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-    alt="nginx" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-    alt="php" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python" width="40" height="40" />
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-    alt="redis" width="40" height="40" />
-  </a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
-    alt="rust" width="40" height="40" />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"
-    width="40" height="40" />
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular"
-    width="40" height="40" />
-  </a>
-</div>
+[![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
+[![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)](https://www.gnu.org/software/bash/)
+[![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)](https://www.docker.com/)
+[![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)](https://kubernetes.io)
+[![GitLab](https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg)](https://gitlab.com)
+[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
+[![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)](https://www.jenkins.io)
+[![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)](https://golang.org)
+[![Symfony](https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg)](https://symfony.com)
+[![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg)](https://laravel.com/)
+[![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/)
+[![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/)
+[![Nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)](https://www.nginx.com)
+[![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net)
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
+[![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg)](https://redis.io)
+[![Rust](https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg)](https://www.rust-lang.org)
+[![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)](https://react.dev/)
+[![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg)](https://angular.io/)
 
 ## Operating System:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
