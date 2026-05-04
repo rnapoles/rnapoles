@@ -11,7 +11,8 @@
 </div>
 
 ## Languages and Tools:
-<p align="left" style="display: flex;">
+
+<div style="display: flex;">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
     alt="linux" width="40" height="40" />
@@ -88,8 +89,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular"
     width="40" height="40" />
   </a>
-</p>
-https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg
+</div>
 
 ## Operating System:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -100,7 +100,8 @@ https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.s
 ![Win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Tech Stack:
-<div style="display: inline_block">
+
+<div style="display: inline-block">
   <img align="center" alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img align="center" alt="C++" src="https://img.shields.io/badge/CPP-54205A?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img align="center" alt="C#" src="https://img.shields.io/badge/Csharp-54205A?style=for-the-badge&logo=csharp&logoColor=white">
